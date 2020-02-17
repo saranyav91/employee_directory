@@ -12,3 +12,11 @@ As a user, I want to be able to view my entire employee directory at once so tha
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 #Screenshots:
+home page:
+![employee](./public/snap1.PNG)
+
+on filter:
+![employee](./public/snap2.PNG)
+
+on sort:
+![employee](./public/snap3.PNG)
